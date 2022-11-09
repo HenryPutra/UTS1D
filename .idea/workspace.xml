@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="232a8962-8314-4778-934f-a806049e809f" name="Changes" comment="halo">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UTS1D.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JawabanNo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JawabanNo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JawabanNo3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +46,14 @@
       <option name="presentableId" value="Default" />
       <updated>1667979005358</updated>
     </task>
+    <task id="LOCAL-00001" summary="halo">
+      <created>1667980771693</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667980771693</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
